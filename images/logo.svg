@@ -1,0 +1,12 @@
+<svg width="180" height="90" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <text filter="url(#svg_2_blur)" opacity="0.71" transform="matrix(2.92411 0 0 3.25863 106.448 -385.344)" stroke="#000" font-style="normal" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Quicksand'" font-size="24" id="svg_2" y="137.91777" x="-35.44858" stroke-width="0" fill="#b5b580">Asif._</text>
+  <rect id="svg_4" height="0" width="1" y="282.79999" x="373.79999" stroke-width="0" stroke="#000" fill="#000000"/>
+ </g>
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_2_blur">
+   <feGaussianBlur stdDeviation="0.6" in="SourceGraphic"/>
+  </filter>
+ </defs>
+</svg>
